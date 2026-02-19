@@ -15,8 +15,7 @@
 ✓ Built-in queue system  
 ✓ Easy to use  
 ✓ Plugin system  
-✓ Uses shoukaku v4 + capable of Lavalink v4   
-✓ Stable & Updated: Based on the rock-solid Shoukaku v4.2.0 logic.  
+✓ Stable & Updated: Based on the rock-solid Bunraku logic.  
 ✓ Bun-Native           
 ✓ High-Performance 
 
