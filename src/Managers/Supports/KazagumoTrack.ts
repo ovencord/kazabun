@@ -9,7 +9,7 @@ import {
   SourceIDs,
   SupportedSources,
 } from '../../Modules/Interfaces';
-import type { Track } from 'shoukaku-bun';
+import type { Track } from '@ovencord/bunraku';
 import type { KazagumoPlayer } from '../KazagumoPlayer.ts';
 
 export class KazagumoTrack {

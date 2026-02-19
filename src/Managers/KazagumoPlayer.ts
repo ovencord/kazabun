@@ -8,7 +8,7 @@ import type {
   TrackExceptionEvent,
   TrackStuckEvent,
   WebSocketClosedEvent,
-} from 'shoukaku-bun';
+} from '@ovencord/bunraku';
 import type {
   KazagumoPlayerOptions,
   KazagumoSearchOptions,

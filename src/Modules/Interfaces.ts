@@ -2,7 +2,7 @@ import type { Kazagumo } from '../Kazagumo.ts';
 import type { KazagumoPlayer, KazagumoQueue } from '../Index.ts';
 import type { KazagumoTrack } from '../Managers/Supports/KazagumoTrack.ts';
 import type { Constructor } from './Utils.ts';
-import type { Track } from 'shoukaku-bun';
+import type { Track } from '@ovencord/bunraku';
 
 export interface KazagumoOptions {
   /** Default search engine if no engine was provided. Default to youtube. If defaultSource is provided, this will be ignored */

@@ -1,4 +1,4 @@
-import type { Track } from 'shoukaku-bun';
+import type { Track } from '@ovencord/bunraku';
 import type { KazagumoTrack } from '../Managers/Supports/KazagumoTrack.ts';
 
 export class KazagumoUtils {

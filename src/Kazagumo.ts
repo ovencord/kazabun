@@ -22,14 +22,14 @@ import type {
   TrackExceptionEvent,
   TrackStuckEvent,
   VoiceChannelOptions,
-  WebSocketClosedEvent} from 'shoukaku-bun';
+  WebSocketClosedEvent} from '@ovencord/bunraku';
 import {
   Connection,
   LoadType,
   Player,
   Shoukaku,
   Constants,
-} from 'shoukaku-bun';
+} from '@ovencord/bunraku';
 const { State, VoiceState } = Constants;
 type VoiceStateType = (typeof VoiceState)[keyof typeof VoiceState];
 
