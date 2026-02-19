@@ -1,6 +1,16 @@
 # 𝗞 𝗔 𝗭 𝗔 𝗕 𝗨 𝗡
 
-<p align="center"> <a href="https://paypal.me/l0g4n7"><img src="https://img.shields.io/badge/💖-Support-ff69b4"></a> <img src="https://img.shields.io/npm/v/@ovencord/kazabun"> <img src="https://img.shields.io/npm/dm/@ovencord/kazabun?label=downloads"> <img src="https://img.shields.io/npm/l/@ovencord/kazabun"> <img src="https://img.shields.io/github/repo-size/ovencord/kazabun"> <a href="https://github.com/ovencord/kazabun"><img src="https://img.shields.io/badge/Bun-Networking-black?logo=bun"></a></p>
+<p align="left"> 
+  <a href="https://paypal.me/l0g4n7">
+    <img src="https://img.shields.io/badge/💖-Support-ff69b4"></a>
+  <img src="https://img.shields.io/npm/v/@ovencord/kazabun"> 
+  <img src="https://img.shields.io/npm/dm/@ovencord/kazabun?label=downloads"> 
+  <img src="https://img.shields.io/npm/l/@ovencord/kazabun"> 
+  <img src="https://img.shields.io/github/repo-size/ovencord/kazabun"> 
+  <a href="https://github.com/ovencord/kazabun">
+    <img src="https://img.shields.io/badge/Bun-Networking-black?logo=bun">
+  </a>
+</p>
 
 > #### A [Bunraku](https://github.com/ovencord/bunraku) wrapper with built in queue system 
 
