@@ -1,6 +1,6 @@
 {
-  "name": "kazagumo-bun",
-  "version": "3.4.4",
+  "name": "@ovencord/kazabun",
+  "version": "1.0.0",
   "description": "Bun-native high-performance Kazagumo fork. Node legacy purged.",
   "main": "src/Index.ts",
   "types": "src/Index.ts",
