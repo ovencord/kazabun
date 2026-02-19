@@ -1,6 +1,7 @@
 .github
 .idea
 .vscode
+.bun.lock
 .gitattributes
 .gitignore
 assets/
