@@ -15,7 +15,7 @@
 > #### A [Bunraku](https://github.com/ovencord/bunraku) wrapper with built in queue system 
 
 <p align="center">
-<img width="" height="400" alt="Kazagumo © Azur Lane" src="https://github.com/user-attachments/assets/478254f6-bd8c-4ffd-8891-ce73a6e8889e" />
+<img width="" height="400" alt="Kazagumo © Azur Lane" src="https://github.com/user-attachments/assets/f0424017-0dbb-4c24-b5f0-bd6a7f6a6d11" />
 
 <p>
 
