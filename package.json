@@ -1,0 +1,46 @@
+{
+  "name": "kazagumo-bun",
+  "version": "3.4.4",
+  "description": "Bun-native high-performance Kazagumo fork. Node legacy purged.",
+  "main": "src/Index.ts",
+  "types": "src/Index.ts",
+  "type": "module",
+  "engines": {
+    "bun": ">=1.3.6"
+  },
+  "scripts": {
+    "test": "bun test",
+    "lint": "eslint ."
+  },
+  "author": "Luigi Colantuono",
+  "contributors": [
+    {
+      "name": "Luigi Colantuono",
+      "url": "https://github.com/LuigiColantuono"
+    }
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/LuigiColantuono/Kazagumo-Bun#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuigiColantuono/Kazagumo-Bun.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuigiColantuono/Kazagumo-Bun/issues"
+  },
+  "funding": {
+    "type": "individual",
+    "url": "https://paypal.me/l0g4n7"
+  },
+  "dependencies": {
+    "shoukaku-bun": "latest"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "discord.js": "^14.25.1",
+    "eslint": "^9.39.2",
+    "globals": "^17.2.0",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.54.0"
+  }
+}
