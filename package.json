@@ -1,6 +1,6 @@
 {
   "name": "@ovencord/kazabun",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bun-native high-performance Kazagumo fork. Node legacy purged.",
   "main": "src/Index.ts",
   "types": "src/Index.ts",
@@ -12,28 +12,25 @@
     "test": "bun test",
     "lint": "eslint ."
   },
+  "dependencies": {
+    "@ovencord/bunraku": "latest"
+  },
   "author": "Luigi Colantuono",
-  "contributors": [
-    {
-      "name": "Luigi Colantuono",
-      "url": "https://github.com/LuigiColantuono"
-    }
-  ],
-  "license": "ISC",
-  "homepage": "https://github.com/LuigiColantuono/Kazagumo-Bun#readme",
+  "license": "MIT",
+  "homepage": "https://github.com/ovencord/kazabun#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LuigiColantuono/Kazagumo-Bun.git"
+    "url": "git+https://github.com/ovencord/kazabun.git"
   },
   "bugs": {
-    "url": "https://github.com/LuigiColantuono/Kazagumo-Bun/issues"
+    "url": "https://github.com/ovencord/kazabun/issues"
   },
   "funding": {
     "type": "individual",
     "url": "https://paypal.me/l0g4n7"
   },
-  "dependencies": {
-    "shoukaku-bun": "latest"
+  "publishConfig": {
+    "access": "public"
   },
   "devDependencies": {
     "@types/bun": "latest",
