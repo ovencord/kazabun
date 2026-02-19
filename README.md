@@ -34,7 +34,7 @@
 | Package | Size | Dependencies | Total Install |
 |---------|------|--------------|---------------|
 | Kazagumo | 85 kB | **WS** | **~751 kB** |
-| Kazabun | 67.3 kB | **NONE** | **~140 kB** |
+| Kazabun | ~50 kB | **NONE** | **~140 kB** |
 
 > **~81% smaller install size!**
 
