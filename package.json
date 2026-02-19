@@ -1,6 +1,6 @@
 {
   "name": "@ovencord/kazabun",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Bun-native high-performance Kazagumo fork. Node legacy purged.",
   "main": "src/Index.ts",
   "types": "src/Index.ts",
@@ -12,6 +12,21 @@
     "test": "bun test",
     "lint": "eslint ."
   },
+    "keywords": [
+    "bot",
+    "music",
+    "lavalink",
+    "bun",
+    "bunraku",
+    "ovencord",
+    "high-performance",
+    "discord",
+    "typescript",
+    "shoukaku",
+    "kazagumo",
+    "bunraku",
+    "@ovencord/kazabun"
+  ],
   "dependencies": {
     "@ovencord/bunraku": "latest"
   },
